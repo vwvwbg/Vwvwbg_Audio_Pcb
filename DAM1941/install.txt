@@ -1,0 +1,4 @@
+scp C:\Users\Valenisse\.ssh\id_rsa.pub volumio@192.168.0.46:~/tmp.pub
+ssh volumio@192.168.0.46 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat ~/tmp.pub >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys && rm -f ~/tmp.pub"
+
+ssh -R 52698:127.0.0.1:52698 volumio@192.168.0.46

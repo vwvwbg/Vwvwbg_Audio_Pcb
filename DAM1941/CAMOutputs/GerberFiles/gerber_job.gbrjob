@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-06-30T21:59:47Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "tinker"
+        },
+        "Owner": "Pochun Wang <402410996@s02.tku.edu.tw>",
+        "Size": {
+            "X": 88.372,
+            "Y": 66.091
+        }
+    }
+}
