@@ -1,0 +1,142 @@
+Added Component: Designator=C1(CBB-CL71)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CBB-CL71)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CBB-CL71)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CBB-CL71)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CBB-CL71)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "CBB电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=E1(CS 5.0*10*13 - C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插固态电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=E2(CS 5.0*10*13 - C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插固态电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=E3(CS 5.0*10*13 - C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插固态电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=E4(CS 5.0*10*13 - C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "直插固态电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=ic1(QFN65P500X500X100_HS-21N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TPS7A4700RGWT**MULT1"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOP8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM?"; Value = "?隔弘盞?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???方"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???"; Value = "方?"; VariantName = "[No Variations]"
+Added Component: Designator=ic3(QFN65P500X500X100_HS-21N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TPS7A4700RGWT**MULT1"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(KF2EDGK5.08-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(KF2EDGK5.08-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RS 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RS 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RS 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RS 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+15 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+15 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=-15 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=-15 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=E1-1
+Added Pin To Net: NetName=-15 Pin=E1-2
+Added Pin To Net: NetName=GND Pin=E2-1
+Added Pin To Net: NetName=-15 Pin=E2-2
+Added Pin To Net: NetName=+15 Pin=E3-1
+Added Pin To Net: NetName=GND Pin=E3-2
+Added Pin To Net: NetName=+15 Pin=E4-1
+Added Pin To Net: NetName=GND Pin=E4-2
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetC1_1 Pin=IC2-3
+Added Pin To Net: NetName=-15 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=+15 Pin=IC2-7
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=NetJP1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetJP1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetIC2_6 Pin=R3-1
+Added Pin To Net: NetName=NetJP2_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R4-2
+Added Member To Class: ClassName=Preamp Member=Component C1 0.1uF/275V
+Added Member To Class: ClassName=Preamp Member=Component C2 0.1uF/275V
+Added Member To Class: ClassName=Preamp Member=Component C3 0.1uF/275V
+Added Member To Class: ClassName=Preamp Member=Component C4 0.1uF/275V
+Added Member To Class: ClassName=Preamp Member=Component C5 0.1uF/275V
+Added Member To Class: ClassName=Preamp Member=Component E1 10UF/6.3V
+Added Member To Class: ClassName=Preamp Member=Component E2 10UF/6.3V
+Added Member To Class: ClassName=Preamp Member=Component E3 10UF/6.3V
+Added Member To Class: ClassName=Preamp Member=Component E4 10UF/6.3V
+Added Member To Class: ClassName=Preamp Member=Component ic1 tps7a47
+Added Member To Class: ClassName=Preamp Member=Component IC2 OP07
+Added Member To Class: ClassName=Preamp Member=Component ic3 tps7a47
+Added Member To Class: ClassName=Preamp Member=Component JP1 HDR-1X2
+Added Member To Class: ClassName=Preamp Member=Component JP2 HDR-1X2
+Added Member To Class: ClassName=Preamp Member=Component R1 1K
+Added Member To Class: ClassName=Preamp Member=Component R2 1K
+Added Member To Class: ClassName=Preamp Member=Component R3 1K
+Added Member To Class: ClassName=Preamp Member=Component R4 1K
+Added Room: Name=Preamp

@@ -1,0 +1,10 @@
+Added Component: Designator=ic?(QFN65P500X500X100_HS-21N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TPS7A4700RGWT**MULT1"; VariantName = "[No Variations]"
+Added Component: Designator=ic?(QFN65P500X500X100_HS-21N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TPS7A4700RGWT**MULT1"; VariantName = "[No Variations]"
+Added Class: Name=Preamp
+Added Room: Name=Preamp

@@ -1,0 +1,5 @@
+LED:
+RS的中間兩孔
+
+MAIN:
+AMANERO板子微調

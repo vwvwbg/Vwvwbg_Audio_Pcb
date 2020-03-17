@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+一般資訊
+=================================================================
+傳送系統產品 I.D.  : Metal LED Illuminated Latching 16mm Power Push Button ON-OFF Switch 12V.SLDPRT
+接收系統產品 I.D.: Metal LED Illuminated Latching 16mm Power Push Button ON-OFF Switch 12V.SLDPRT
+檔案名稱                    : G:\栺鳧膱\_砎鍷膷\雞膹�欑蠈�?膰薧槻鴀醆Metal LED Illuminated Latching 16mm Power Push Button ON-OFF Switch 12V.IGS
+傳送系統               : SolidWorks 2016
+Preprocessor Version         : SolidWorks 2016
+檔案產生日期           : 170826.115703
+模型產生日期          : 170826.115703
+單位                        : MM
+模型空間比例            : 1
+作者                       : Serj-777
+單位                 : 
+
+
+=================================================================
+圖元處理資訊
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     13
+  Average number of significant digits:                 8.8323
+  與原點的最大距離:                           1741.96
+  與原點的最小距離:                                 0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+圖元摘要
+=================================================================
+-----------------------------------------------------------------
+類型名稱                                         轉換的數量
+---- ----                                         ----- ---------
+100  Arc                                            356       356
+102  Composite curve                                408       408
+110  Line                                           534       534
+120  Surface of revolution                           96        96
+124  Transformation matrix                          259       259
+126  Rational B-spline curve                       1102      1102
+128  Rational B-spline surface                       88        88
+142  Curve on a parametric surface                  204       204
+144  Trimmed parametric surface                     184       184
+314  Color definition                                65        65
+_________________________________________________________________
+
+
+=================================================================
+結果摘要
+=================================================================
+SolidWorks 特徵類型                數量
+-----------------------                -----
+實體特徵                       8
+曲面特徵                     0
+曲線/草圖特徵                0
+--------------------------------------------
+開始時間: 星期五, 八月 10, 2018 23:41:52
+完成時間: 星期五, 八月 10, 2018 23:41:59
+處理時間: 0 days, 00 hours, 00 mins, 07 secs

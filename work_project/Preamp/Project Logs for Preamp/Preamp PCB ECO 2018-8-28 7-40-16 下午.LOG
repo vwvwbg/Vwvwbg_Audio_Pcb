@@ -1,0 +1,25 @@
+Added Component: Designator=*1(M3 125X300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM?"; Value = "?琖ふ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???方"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???"; Value = "方?"; VariantName = "[No Variations]"
+Added Component: Designator=*2(M3 125X300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM?"; Value = "?琖ふ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???方"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???"; Value = "方?"; VariantName = "[No Variations]"
+Added Component: Designator=*3(M3 125X300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM?"; Value = "?琖ふ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???方"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???"; Value = "方?"; VariantName = "[No Variations]"
+Added Component: Designator=*(M3 125X300)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM?"; Value = "?琖ふ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???方"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???"; Value = "方?"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Preamp Member=Component *1 M3
+Added Member To Class: ClassName=Preamp Member=Component *2 M3
+Added Member To Class: ClassName=Preamp Member=Component *3 M3
+Added Member To Class: ClassName=Preamp Member=Component * M3
+Added Room: Name=Preamp

@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=IC2 Old Footprint=SOP8_N New Footprint=DIP8-300
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=Rg
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=Ri
+Change Component Comment : Designator=R3 Old Comment=1K New Comment=Ro
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=Rz
+Change Component Description : Designator=R3 Old Description=直插色环电阻 New Description=
+Added Component: Designator=R?(RS 1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "色环电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC2_2 Pin=R?-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R?-2
+Added Member To Class: ClassName=Preamp Member=Component R? 1K
