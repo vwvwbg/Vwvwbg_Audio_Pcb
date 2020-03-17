@@ -1,0 +1,74 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'dynalobal17.pdsprj'.
+CADCAM generated at 5:20:50 AM on Thursday, June 25, 2015.
+
+File List
+---------
+Top Copper              : dynalobal17 - CADCAM Top Copper.TXT
+Bottom Copper           : dynalobal17 - CADCAM Bottom Copper.TXT
+Top Silk Screen         : dynalobal17 - CADCAM Top Silk Screen.TXT
+Bottom Silk Screen      : dynalobal17 - CADCAM Bottom Silk Screen.TXT
+Top Solder Resist       : dynalobal17 - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : dynalobal17 - CADCAM Bottom Solder Resist.TXT
+Top SMT Paste Mask      : dynalobal17 - CADCAM Top SMT Paste Mask.TXT
+Bottom SMT Paste Mask   : dynalobal17 - CADCAM Bottom SMT Paste Mask.TXT
+Mechanical 1            : dynalobal17 - CADCAM Mechanical 1.TXT
+Drill                   : dynalobal17 - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	CIRCLE  D=50th                                                            DRAW
+D11	CIRCLE  D=30th                                                            DRAW
+D12	CIRCLE  D=10th                                                            DRAW
+D13	CIRCLE  D=40th                                                            DRAW
+D14	CIRCLE  D=90th                                                            DRAW
+D15	CIRCLE  D=100th                                                           DRAW
+D16	CIRCLE  D=25th                                                            DRAW
+D17	CIRCLE  D=2.5th                                                           DRAW
+D18	CIRCLE  D=50th                                                            FLASH
+D19	RECT    W=60th                H=80th                                      FLASH
+D70	RECT    W=150th               H=80th                                      FLASH
+D71	RECT    W=100th               H=40th                                      FLASH
+D20	RECT    W=80th                H=60th                                      FLASH
+D21	RECT    W=80th                H=150th                                     FLASH
+D22	RECT    W=80th                H=25th                                      FLASH
+D23	SQUARE  S=35th                                                            FLASH
+D24	CIRCLE  D=80th                                                            FLASH
+D25	SQUARE  S=80th                                                            FLASH
+D26	RECT    W=1500th              H=700th                                     FLASH
+D27	CIRCLE  D=180th                                                           FLASH
+D28	CIRCLE  D=300th                                                           FLASH
+D29	RECT    W=100th               H=160th                                     FLASH
+D72	CIRCLE  D=120th                                                           FLASH
+D73	SQUARE  S=50th                                                            FLASH
+D30	CIRCLE  D=70th                                                            FLASH
+D31	CIRCLE  D=8th                                                             DRAW
+D32	CIRCLE  D=70th                                                            DRAW
+D33	RECT    W=40th                H=100th                                     FLASH
+D34	CIRCLE  D=2.4th                                                           DRAW
+D35	CIRCLE  D=100th                                                           FLASH
+D36	CIRCLE  D=200th                                                           FLASH
+D37	CIRCLE  D=320th                                                           FLASH
+D38	CIRCLE  D=150th                                                           FLASH
+D39	CIRCLE  D=90th                                                            FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	20th (0-15) Plated
+T02	30th (0-15) Plated
+T03	40th (0-15) Plated
+T04	150th (0-15) Plated
+T05	60th (0-15) Plated
+
+
+[END OF FILE]
