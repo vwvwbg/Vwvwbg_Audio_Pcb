@@ -1,0 +1,58 @@
+
+**** 05/21/20 10:35:38 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "LT4320IDD-4320"  [ C:\AUDIO\VWVWBG_AUDIO_PCB\POWER\BRIDGE\4320EVL\DC1823B-1-PSpiceFiles\LT4320IDD\4320.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "4320.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Cadence\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "C:\Audio\Sim_model\MJL4281A.REV0.LIB" 
+.lib "C:\Audio\Sim_model\MJL4302A.LIB" 
+.lib "C:\Audio\Sim_model\TI\CSD18536KCS.LIB" 
+.lib "C:\Users\vwvwb\Downloads\NJL4302DG.LIB" 
+.lib "C:\Users\vwvwb\Downloads\NJL4281DG.LIB" 
+.lib "C:\Audio\Sim_model\2SC5200N_PSpice_20161214\2SC5200N.lib" 
+.lib "C:\Audio\Sim_model\2SA1943N_PSpice_20161215\2SA1943N.lib" 
+.lib "C:\Audio\Sim_model\2SA2097_PSpice_20161213\2SA2097.lib" 
+.lib "C:\Audio\Sim_model\2SC6000_PSpice_20161216\2SC6000.lib" 
+.lib "C:\Audio\Sim_model\2SC5886A_PSpice_20170929\2SC5886A.lib" 
+.lib "C:\Audio\Sim_model\2SC3324_PSpice_20161214\2SC3324.lib" 
+.lib "C:\Audio\Sim_model\2SC3324_PSpice_20161214\2SC3324.lib" 
+.lib "C:\Audio\Sim_model\2SA1312_PSpice_20161215\2SA1312.lib" 
+.lib "C:\Users\vwvwb\Downloads\ES3C.lib" 
+.lib "C:\Users\vwvwb\Downloads\MPSA06.LIB" 
+.lib "C:\Users\vwvwb\Downloads\MPSA56.LIB" 
+.lib "C:\Users\vwvwb\Downloads\LL4148.lib" 
+.lib "C:\Users\vwvwb\Downloads\MJF15030.LIB" 
+.lib "C:\Users\vwvwb\Downloads\MJF15031.LIB" 
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 1000ns 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\LT4320IDD.net" 
+
+
+
+**** INCLUDING LT4320IDD.net ****
+* source DC1823B-1
+
+**** RESUMING 4320.cir ****
+.END
+
+WARNING(ORPSIM-15188): There are no devices in this circuit
+

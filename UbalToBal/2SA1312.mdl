@@ -1,0 +1,42 @@
+**********************
+* Autodesk EAGLE - SPICE Model File
+* Author:
+* Date: 
+**********************
+.MODEL 2SA1312_BJT PNP(
++ LEVEL = 1
++ IS = 2e-013
++ BF = 415
++ NF = 1
++ VAF = 60
++ IKF = 0.2
++ ISE = 1.05e-009
++ NE = 5
++ BR = 10
++ NR = 1.02
++ VAR = 8
++ IKR = 0.0001
++ ISC = 1.5e-011
++ NC = 1.3
++ NK = 0.5
++ RE = 0.5
++ RB = 0.2
++ RC = 2
++ CJE = 10E-012
++ VJE = 0.75
++ MJE = 0.33
++ CJC = 1.0176e-011
++ VJC = 0.79167
++ MJC = 0.319
++ FC = 0.5
++ TF = 900E-012
++ XTF = 10
++ VTF = 2
++ ITF = 500E-003
++ PTF = 0
++ TR = 10E-09
++ EG = 1.11
++ XTB = 1.55
++ XTI = 3
++ TRC1 = 0.005
++ TNOM = 25)

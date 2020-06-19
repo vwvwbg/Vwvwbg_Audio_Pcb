@@ -1,0 +1,339 @@
+Netlist
+
+Exported from UBTB_MIX.sch at 2020/3/27 下午 01:22
+
+EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Net      Part     Pad      Pin        Sheet
+
+BOUT+    R11      1        1          1
+         R12      2        2          1
+         R13      1        1          1
+         R14      2        2          1
+         R17      1        1          1
+         R50      1        1          1
+         R52      1        1          1
+         R53      2        2          1
+         R54      2        2          1
+         X3       2        KL         1
+
+BOUT-    R30      1        1          1
+         R31      2        2          1
+         R47      1        1          1
+         R48      1        1          1
+         R49      2        2          1
+         R55      1        1          1
+         R56      1        1          1
+         R57      2        2          1
+         R58      2        2          1
+         X4       2        KL         1
+
+GND      C10      +        +          1
+         C2       1        1          1
+         C3       2        2          1
+         C5       1        1          1
+         C6       2        2          1
+         C7       -        -          1
+         C8       -        -          1
+         C9       +        +          1
+         IC1      3        +IN        1
+         IC2      3        +IN        1
+         R32      2        2          1
+         R33      1        1          1
+         R37      1        1          1
+         R38      1        1          1
+         R45      1        1          1
+         R46      2        2          1
+         X1       3        KL         1
+         X2       3        KL         1
+
+IN+      Q35      B        B          1
+         Q39      1        B          1
+         X3       1        KL         1
+
+IN-      Q34      B        B          1
+         Q38      1        B          1
+         X4       1        KL         1
+
+N$1      C4       1        1          1
+         IC2      6        OUT        1
+         R51      1        1          1
+
+N$3      C4       2        2          1
+         IC2      2        -IN        1
+         R48      2        2          1
+
+N$4      Q2       E        E          1
+         R5       2        2          1
+
+N$5      Q3       E        E          1
+         R2       2        2          1
+
+N$6      Q4       E        E          1
+         R1       1        1          1
+
+N$7      LED5     C        C          1
+         Q4       B        B          1
+         R3       2        2          1
+
+N$8      LED6     A        A          1
+         Q3       B        B          1
+         R4       1        1          1
+
+N$9      Q4       C        C          1
+         R10      2        2          1
+         R5       1        1          1
+         R7       2        2          1
+
+N$10     Q3       C        C          1
+         R6       2        2          1
+         R8       1        1          1
+         R9       1        1          1
+
+N$11     Q1       E        E          1
+         R6       1        1          1
+
+N$12     R3       1        1          1
+         R4       2        2          1
+
+N$13     Q5       B        B          1
+         R7       1        1          1
+
+N$14     Q5       E        E          1
+         R11      2        2          1
+         R50      2        2          1
+
+N$15     Q7       B        B          1
+         R9       2        2          1
+
+N$16     Q8       B        B          1
+         R10      1        1          1
+
+N$17     Q6       B        B          1
+         R8       2        2          1
+
+N$18     Q6       E        E          1
+         R12      1        1          1
+         R53      1        1          1
+
+N$19     C1       2        2          1
+         IC1      2        -IN        1
+         R17      2        2          1
+
+N$20     Q8       E        E          1
+         R13      2        2          1
+         R52      2        2          1
+
+N$21     Q7       E        E          1
+         R14      1        1          1
+         R54      1        1          1
+
+N$22     C1       1        1          1
+         IC1      6        OUT        1
+         R16      1        1          1
+
+N$25     Q11      E        E          1
+         R18      2        2          1
+
+N$26     Q12      E        E          1
+         R15      1        1          1
+
+N$27     LED7     C        C          1
+         Q12      B        B          1
+         R19      2        2          1
+
+N$28     LED8     A        A          1
+         Q11      B        B          1
+         R20      1        1          1
+
+N$29     Q12      C        C          1
+         R21      1        1          1
+         R25      2        2          1
+         R28      2        2          1
+
+N$30     Q11      C        C          1
+         R24      2        2          1
+         R26      1        1          1
+         R27      1        1          1
+
+N$31     Q10      E        E          1
+         R21      2        2          1
+
+N$32     Q9       E        E          1
+         R24      1        1          1
+
+N$33     R19      1        1          1
+         R20      2        2          1
+
+N$34     Q13      B        B          1
+         R25      1        1          1
+
+N$35     Q15      B        B          1
+         R26      2        2          1
+
+N$36     Q14      B        B          1
+         R28      1        1          1
+
+N$37     Q16      B        B          1
+         R27      2        2          1
+
+N$38     Q13      E        E          1
+         R30      2        2          1
+         R55      2        2          1
+
+N$39     Q15      E        E          1
+         R31      1        1          1
+         R58      1        1          1
+
+N$41     Q14      E        E          1
+         R47      2        2          1
+         R56      2        2          1
+
+N$42     Q16      E        E          1
+         R49      1        1          1
+         R57      1        1          1
+
+N$93     Q30      2        E          1
+         R22      2        2          1
+
+N$94     Q31      2        E          1
+         R23      2        2          1
+
+N$95     Q31      3        C          1
+         Q32      2        E          1
+         Q34      C        C          1
+
+N$96     Q30      3        C          1
+         Q35      C        C          1
+         Q37      2        E          1
+
+N$97     LED1     A        A          1
+         Q30      1        B          1
+         Q31      1        B          1
+         R29      1        1          1
+
+N$98     Q32      1        B          1
+         Q37      1        B          1
+         R29      2        2          1
+         R32      1        1          1
+
+N$101    Q33      B        B          1
+         Q41      B        B          1
+         R33      2        2          1
+         R34      1        1          1
+
+N$102    Q29      C        C          1
+         Q33      E        E          1
+         Q39      3        C          1
+
+N$103    LED2     C        C          1
+         Q29      B        B          1
+         Q40      B        B          1
+         R34      2        2          1
+
+N$104    Q38      3        C          1
+         Q40      C        C          1
+         Q41      E        E          1
+
+N$105    Q29      E        E          1
+         R35      1        1          1
+
+N$106    Q40      E        E          1
+         R36      1        1          1
+
+N$108    LED3     C        C          1
+         Q36      B        B          1
+         R45      2        2          1
+
+N$109    Q36      E        E          1
+         R43      1        1          1
+
+N$110    Q36      C        C          1
+         R41      2        2          1
+         R42      2        2          1
+
+N$111    Q34      E        E          1
+         R42      1        1          1
+
+N$112    Q35      E        E          1
+         R41      1        1          1
+
+N$115    Q39      2        E          1
+         R39      2        2          1
+
+N$116    Q38      2        E          1
+         R40      2        2          1
+
+N$117    Q26      3        C          1
+         R39      1        1          1
+         R40      1        1          1
+
+N$118    Q26      2        E          1
+         R44      2        2          1
+
+N$119    LED4     A        A          1
+         Q26      1        B          1
+         R46      1        1          1
+
+UOUT+    Q1       B        B          1
+         Q2       B        B          1
+         Q33      C        C          1
+         Q37      3        C          1
+         R16      2        2          1
+         R37      2        2          1
+
+UOUT-    Q10      B        B          1
+         Q32      3        C          1
+         Q41      C        C          1
+         Q9       B        B          1
+         R38      2        2          1
+         R51      2        2          1
+
+V+       C2       2        2          1
+         C5       2        2          1
+         C7       +        +          1
+         C8       +        +          1
+         IC1      7        V+         1
+         IC2      7        V+         1
+         LED2     A        A          1
+         LED3     A        A          1
+         LED5     A        A          1
+         LED7     A        A          1
+         Q1       C        C          1
+         Q13      C        C          1
+         Q14      C        C          1
+         Q5       C        C          1
+         Q8       C        C          1
+         Q9       C        C          1
+         R1       2        2          1
+         R15      2        2          1
+         R35      2        2          1
+         R36      2        2          1
+         R43      2        2          1
+         X1       2        KL         1
+         X2       1        KL         1
+
+V-       C10      -        -          1
+         C3       1        1          1
+         C6       1        1          1
+         C9       -        -          1
+         IC1      4        V-         1
+         IC2      4        V-         1
+         LED1     C        C          1
+         LED4     C        C          1
+         LED6     C        C          1
+         LED8     C        C          1
+         Q10      C        C          1
+         Q15      C        C          1
+         Q16      C        C          1
+         Q2       C        C          1
+         Q6       C        C          1
+         Q7       C        C          1
+         R18      1        1          1
+         R2       1        1          1
+         R22      1        1          1
+         R23      1        1          1
+         R44      1        1          1
+         X1       1        KL         1
+         X2       2        KL         1
+

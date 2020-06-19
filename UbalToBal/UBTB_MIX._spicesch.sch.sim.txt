@@ -1,0 +1,25 @@
+
+Circuit: * spicenetlist
+
+Error on line 17 : q_q4 n_9 n_7 n_6 2sa1312
+  Unable to find definition of model 
+Error on line 29 : d_led1 n_97 v- led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 49 : d_led5 v+ n_7 led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 50 : d_led6 n_8 v- led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 53 : d_led3 v+ n_108 led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 80 : d_led2 v+ n_103 led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 84 : d_led7 v+ n_27 led_1.7red
+  Unable to find definition of model led_1.7red - default assumed 
+Error on line 108 : d_led8 n_28 v- led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+Error on line 112 : d_led4 n_119 v- led_1.7vred
+  Unable to find definition of model led_1.7vred - default assumed 
+
+ngspice stopped due to error, no simulation run!
+
+ERROR: fatal error in ngspice, exit(1)

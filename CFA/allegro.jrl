@@ -1,0 +1,28 @@
+\t (00:00:17) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Sun Mar 29 05:15:01 2020
+\t (00:00:17)         Host=DESKTOP-P09O3HJ User=vwvwbg Pid=16352 CPUs=16
+\t (00:00:17) CmdLine= c:\cadence\cadence_spb_17.4-2019\tools\bin\allegro.exe C:\Audio\Vwvwbg_Audio_Pcb\CFA\CFA.brd
+\t (00:00:17) 
+   (00:00:17) Loading axlcore.cxt 
+\t (00:00:18) Opening existing design...
+\e (00:00:18) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (00:00:18) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (00:00:23) fillin confirm
+\t (00:00:23) Starting new design...
+\i (00:00:24) trapsize 116667
+\i (00:00:24) generaledit 
+\i (00:00:57) ns_eagle2allegro 
+   (00:00:57) Loading eagle.cxt 
+\i (00:00:57) generaledit 
+\i (00:01:01) setwindow form.myform
+\i (00:01:01) FORM myform close_button  
+\i (00:01:06) setwindow pcb
+\i (00:01:06) file_property 
+\i (00:01:07) setwindow form.fileprop
+\i (00:01:07) FORM fileprop tiering  
+\i (00:01:07) FORM fileprop locking  
+\i (00:01:08) FORM fileprop cancel  
+\i (00:01:09) setwindow pcb
+\i (00:01:09) generaledit 
+\i (00:01:18) exit 
+\t (00:01:19)     Journal end - Sun Mar 29 05:16:02 2020

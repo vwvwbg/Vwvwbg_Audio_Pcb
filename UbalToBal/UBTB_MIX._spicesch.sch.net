@@ -1,0 +1,239 @@
+* SpiceNetList
+* 
+* Exported from UBTB_MIX._spicesch.sch at 2020/3/27 下午 02:22
+* 
+* EAGLE Version 9.4.2 Copyright (c) 1988-2019 Autodesk, Inc.
+* 
+.TEMP=25.000000
+* --------- .OPTIONS ---------
+* --------- .PARAMS ---------
+
+* --------- devices ---------
+R_R45 N_108 0 10K 
+R_R57 BOUT- N_42 20 
+Q_Q4 N_9 N_7 N_6 2SA1312 
+R_R42 N_110 N_111 1K 
+Q_Q9 V+ UOUT- N_32 2SC3324 
+R_R26 N_35 N_30 300 
+V_V1 IN+ 0 DC 0V AC 1V SIN(0 1 100 0 0) 
+R_R13 N_20 BOUT+ 20 
+R_R46 0 N_119 10K 
+R_R28 N_29 N_36 300 
+Q_Q16 V- N_37 N_42 2SA1312 
+Q_Q36 N_110 N_108 N_109 2SA1312 
+Q_Q30 N_96 N_97 N_93 2SC3324 
+R_R38 UOUT- 0 1K3 
+D_LED1 N_97 V- LED_1.7VRED 
+R_R41 N_110 N_112 1K 
+Q_Q39 N_102 IN+ N_115 2SC3324 
+R_R49 BOUT- N_42 20 
+Q_Q8 V+ N_16 N_20 2SC3324 
+Q_Q37 UOUT+ N_98 N_96 2SC3324 
+R_R24 N_30 N_32 10 
+Q_Q38 N_104 IN- N_116 2SC3324 
+R_R55 N_38 BOUT- 20 
+R_R58 BOUT- N_39 20 
+R_R8 N_17 N_10 300 
+Q_Q13 V+ N_34 N_38 2SC3324 
+R_R18 N_25 V- 250 
+R_R12 BOUT+ N_18 20 
+Q_Q26 N_117 N_119 N_118 2SC3324 
+Q_Q40 N_104 N_103 N_106 2SA1312 
+R_R27 N_37 N_30 300 
+R_R11 N_14 BOUT+ 20 
+R_R31 BOUT- N_39 20 
+Q_Q35 N_96 IN+ N_112 2SA1312 
+D_LED5 V+ N_7 LED_1.7VRED 
+D_LED6 N_8 V- LED_1.7VRED 
+R_R36 V+ N_106 250 
+Q_Q2 V- UOUT+ N_4 2SA1312 
+D_LED3 V+ N_108 LED_1.7VRED 
+Q_Q10 V- UOUT- N_31 2SA1312 
+R_R35 V+ N_105 250 
+Q_Q11 N_30 N_28 N_25 2SC3324 
+R_R25 N_29 N_34 300 
+R_R23 N_94 V- 250 
+R_R15 V+ N_26 250 
+R_R20 N_33 N_28 10K 
+R_R33 N_101 0 10K 
+Q_Q14 V+ N_36 N_41 2SC3324 
+Q_Q15 V- N_35 N_39 2SA1312 
+R_R1 V+ N_6 250 
+Q_Q7 V- N_15 N_21 2SA1312 
+Q_Q32 UOUT- N_98 N_95 2SC3324 
+R_R29 N_98 N_97 10K 
+R_R34 N_103 N_101 10K 
+R_R47 N_41 BOUT- 20 
+Q_Q31 N_95 N_97 N_94 2SC3324 
+R_R22 N_93 V- 250 
+C_C2 0 V+ 0.0001 
+R_R30 N_38 BOUT- 20 
+R_R50 N_14 BOUT+ 20 
+R_R44 N_118 V- 250 
+R_R14 BOUT+ N_21 20 
+R_R54 BOUT+ N_21 20 
+R_R10 N_9 N_16 300 
+R_R53 BOUT+ N_18 20 
+D_LED2 V+ N_103 LED_1.7VRED 
+R_R43 V+ N_109 250 
+Q_Q6 V- N_17 N_18 2SA1312 
+R_R6 N_10 N_11 10 
+D_LED7 V+ N_27 LED_1.7RED 
+V_V2 IN- 0 DC 0V AC 1V SIN(0 1 100 0 180) 
+R_R9 N_15 N_10 300 
+R_R5 N_4 N_9 10 
+C_C3 V- 0 0.0001 
+R_R4 N_12 N_8 10K 
+R_R52 N_20 BOUT+ 20 
+R_R32 0 N_98 10K 
+Q_Q41 UOUT- N_101 N_104 2SA1312 
+Q_Q29 N_102 N_103 N_105 2SA1312 
+R_R56 N_41 BOUT- 20 
+R_R37 UOUT+ 0 1K3 
+Q_Q5 V+ N_13 N_14 2SC3324 
+R_R19 N_27 N_33 10K 
+R_R2 N_5 V- 250 
+Q_Q34 N_95 IN- N_111 2SA1312 
+R_R7 N_9 N_13 300 
+R_R40 N_116 N_117 1K 
+R_R21 N_31 N_29 10 
+R_R39 N_115 N_117 1K 
+C_C5 0 V+ 0.0001 
+Q_Q3 N_10 N_8 N_5 2SC3324 
+Q_Q12 N_29 N_27 N_26 2SA1312 
+Q_Q33 UOUT+ N_101 N_102 2SA1312 
+D_LED8 N_28 V- LED_1.7VRED 
+Q_Q1 V+ UOUT+ N_11 2SC3324 
+C_C6 V- 0 0.0001 
+R_R3 N_7 N_12 10K 
+D_LED4 N_119 V- LED_1.7VRED 
+
+* --------- models ---------
+
+* model file: C:/Audio/Vwvwbg_Audio_Pcb/UbalToBal/2SC3324.mdl
+**********************
+* Autodesk EAGLE - SPICE Model File
+* Author:
+* Date: 
+**********************
+.MODEL 2SC3324_BJT NPN(
++ LEVEL = 1
++ IS = 1.3e-013
++ BF = 475
++ NF = 1
++ VAF = 200
++ IKF = 0.2
++ ISE = 3.5e-014
++ NE = 1.3
++ BR = 28
++ NR = 1
++ VAR = 10
++ IKR = 0.004
++ ISC = 1.5e-010
++ NC = 1.5
++ NK = 0.5
++ RE = 0.25
++ RB = 2
++ RC = 0.02
++ CJE = 3.0625e-011
++ VJE = 0.75
++ MJE = 0.33
++ CJC = 4.9687e-012
++ VJC = 0.9247
++ MJC = 0.1914
++ FC = 0.5
++ TF = 3e-010
++ XTF = 50
++ VTF = 5
++ ITF = 0.1
++ PTF = 0
++ TR = 10E-09
++ EG = 1.11
++ XTB = 1.5
++ XTI = 4
++ TRC1 = 0.05
++ TNOM = 25)
+
+
+* model file: C:/Audio/Vwvwbg_Audio_Pcb/UbalToBal/2SA1312.mdl
+**********************
+* Autodesk EAGLE - SPICE Model File
+* Author:
+* Date: 
+**********************
+.MODEL 2SA1312_BJT PNP(
++ LEVEL = 1
++ IS = 2e-013
++ BF = 415
++ NF = 1
++ VAF = 60
++ IKF = 0.2
++ ISE = 1.05e-009
++ NE = 5
++ BR = 10
++ NR = 1.02
++ VAR = 8
++ IKR = 0.0001
++ ISC = 1.5e-011
++ NC = 1.3
++ NK = 0.5
++ RE = 0.5
++ RB = 0.2
++ RC = 2
++ CJE = 10E-012
++ VJE = 0.75
++ MJE = 0.33
++ CJC = 1.0176e-011
++ VJC = 0.79167
++ MJC = 0.319
++ FC = 0.5
++ TF = 900E-012
++ XTF = 10
++ VTF = 2
++ ITF = 500E-003
++ PTF = 0
++ TR = 10E-09
++ EG = 1.11
++ XTB = 1.55
++ XTI = 3
++ TRC1 = 0.005
++ TNOM = 25)
+
+
+* model file: C:/Audio/Vwvwbg_Audio_Pcb/UbalToBal/LED_1.7VRED.mdl
+**********************
+* Autodesk EAGLE - SPICE Model File
+* Author:
+* Date: 
+**********************
+*Typ RED GaAs LED: Vf=1.7V Vr=4V If=40mA trr=3uS
+.MODEL LED1 D (IS=93.2P RS=42M N=3.73 BV=4 IBV=10U
++ CJO=2.97P VJ=.75 M=.333 TT=4.32U)
+
+
+* model file: C:/Users/vwvwb/Documents/EAGLE/spice/LED_1.7RED.mdl
+**********************
+* Autodesk EAGLE - SPICE Model File
+* Author:
+* Date: 
+**********************
+*Typ RED GaAs LED: Vf=1.7V Vr=4V If=40mA trr=3uS
+.MODEL LED1 D (IS=93.2P RS=42M N=3.73 BV=4 IBV=10U
++ CJO=2.97P VJ=.75 M=.333 TT=4.32U)
+
+
+* --------- simulation ---------
+.print DC Vp(BOUT+) Vp(BOUT-) I(V_V1) I(V_V2)
+.print AC Vp(BOUT+) Vp(BOUT-) I(V_V1) I(V_V2)
+.print TRAN Vp(BOUT+) Vp(BOUT-) I(V_V1) I(V_V2)
+.END
+
+
+
+
+
+
+
+
+
+
